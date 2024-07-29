@@ -1,5 +1,5 @@
-# Power-BI-Plant-Co.
-This project presents the Gross Profit Performance for Plant Co. with dynamic capabilities allowing users to switch between key metrics and different years. Key features include:
+# Power-BI-Performance-Report-Plant-Co.
+This project presents the performance of Plant Co., with dynamic capabilities that allow users to switch between key metrics and different years. Key features include:
 
 - Metric Options: Users can toggle between Gross Profit, Quantity, and Sales to view different aspects of performance.
 - Year Selection: Users can switch between 2023 and 2024 to compare performance across different years.
